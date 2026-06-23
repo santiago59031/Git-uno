@@ -10,4 +10,8 @@ Pueden hacer lo que quieran...
 ### Hola Mundo Desde GitHub
 Texto agregado desde la interfaz pagina de github!!!
 
+<<<<<<< HEAD
 ### Readme.md: Actualizado Desde Git Hub
+=======
+### Readme.md: Actualizado desde mi repositorio local
+>>>>>>> be2575f (Readme.md: desde local)
